@@ -1,1 +1,1 @@
-# wo-dotnet
+# relics-info

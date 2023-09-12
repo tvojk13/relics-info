@@ -1,19 +1,7 @@
-using System;
-using System.Net.Http;
-using System.Threading.Tasks;
-using System.IO;
 using Newtonsoft.Json;
-using Microsoft.VisualBasic;
 using Newtonsoft.Json.Linq;
-using System.Xml.Linq;
-using System.Windows.Forms;
-using System.Security.Cryptography.X509Certificates;
-using Tesseract;
-using static System.Net.Mime.MediaTypeNames;
-using Newtonsoft.Json.Serialization;
-using static System.Net.WebRequestMethods;
 using System.Runtime.InteropServices;
-using System.Drawing;
+using Tesseract;
 
 
 namespace relicsInfo
@@ -76,7 +64,7 @@ namespace relicsInfo
 
 						do
 						{
-							wordsList.Add(iterator.GetText(PageIteratorLevel.Word));														 
+							wordsList.Add(iterator.GetText(PageIteratorLevel.Word));
 						}
 						while (iterator.Next(PageIteratorLevel.Word));
 
@@ -108,7 +96,7 @@ namespace relicsInfo
 								itemForm.Show();
 							}
 						}
-					x += width + 5;
+						x += width + 5;
 					}
 				}
 			}

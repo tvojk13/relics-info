@@ -71,8 +71,10 @@
 			this.Controls.Add(this.LAST_UPDATE_LABEL);
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
 			this.KeyPreview = true;
+			this.MaximizeBox = false;
 			this.Name = "Form1";
-			this.Text = "Main";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+			this.Text = "Relics Info";
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
