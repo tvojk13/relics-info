@@ -11,7 +11,6 @@ Here's how it works: Relics Info captures a screenshot of the game and utilizes 
 - set the resolution to FullHD
 - use Borderless Fullscreen mode
 - change the language to English
-- have a group of 4 people
 - turn on Item Labels <br> ![label](https://i.imgur.com/3vyTUeD.png) <br>
 It is also recommended to use these interface settings to increase recognizability <br> ![theme](https://i.imgur.com/TLH0OQe.png)
 ### Features
@@ -19,8 +18,8 @@ It is also recommended to use these interface settings to increase recognizabili
 ![interface_demo](https://i.imgur.com/l8tvUcD.png) <br>
 The main window contains one button and information about the latest update of the database that contains the items in the game. The database is updated automatically when the program is started, however, if there is a need, it can be done using the button.
 #### Prices display
-![program_demo](https://i.imgur.com/RXq83s4.gif) <br>
-In the game, when you are at the stage of selecting a reward, you need to press the `Shift+Ctrl+M` key combination, after which the windows displaying information about the item will open. After 15 seconds all windows will close automatically.
+![program_demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdwZjl1NzJhNnVkdnhsZ2N6dGQxanYxNWZsdDYwdWwwc243YjFkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dMjZ5sJHV2g13mMDUx/giphy-downsized-large.gif) <br>
+In the game, when you are at the stage of selecting a reward, you need to press the key combination `Ctrl+Shift+2 or 3 or 4` (depends on the number of rewards), after which windows with information about this item will open. After 15 seconds all windows will automatically close.
 ### Contact us
 If you have any ideas or improvements for this repository, please let me know. <br>
 Email for contact: tvojk13@gmail.com
