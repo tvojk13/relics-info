@@ -77,7 +77,6 @@
 			this.Text = "Relics Info";
 			this.ResumeLayout(false);
 			this.PerformLayout();
-
 		}
 
 		#endregion

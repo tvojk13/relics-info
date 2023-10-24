@@ -16,7 +16,6 @@
 
 		private void ExistenceTimer_Tick(object sender, EventArgs e)
 		{
-			// Закрыть форму
 			this.Dispose();
 		}
 	}
